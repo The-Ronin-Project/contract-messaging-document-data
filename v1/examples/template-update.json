@@ -7,6 +7,6 @@
             "intValue": 42,
             "strValue": "This string must be here"
         },
-        "createdAt": "2022-09-13T12:14:15"
+        "createdAt": "2022-09-13T12:14:15Z"
     }
 }

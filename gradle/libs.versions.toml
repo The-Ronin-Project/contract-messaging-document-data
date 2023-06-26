@@ -1,0 +1,2 @@
+[libraries]
+guava = "com.google.guava:guava:31.1-jre"

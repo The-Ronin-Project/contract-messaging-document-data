@@ -7,9 +7,9 @@
             "intValue": 42,
             "strValue": "This string must be here",
             "dateValue": "2022-09-13",
-            "dateTimeValue": "2022-09-13T12:14:15"
+            "dateTimeValue": "2022-09-13T12:14:15Z"
         },
-        "createdAt": "2022-09-13T12:14:15",
-        "updatedAt": "2022-09-21T21:07:35"
+        "createdAt": "2022-09-13T12:14:15Z",
+        "updatedAt": "2022-09-21T21:07:35Z"
     }
 }
